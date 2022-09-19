@@ -1,0 +1,17 @@
+.list-lenguaje{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin:30px 20px;
+    border-radius: 5px;}
+
+    .section-icons{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        grid-template-rows: repeat(4,minmax(80px,100px));
+        justify-content: center;
+        margin-top: 0px;}
+
+footer{
+    width: 97%;
+    margin: 0px 20px;}
